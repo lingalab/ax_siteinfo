@@ -1,0 +1,7 @@
+#Add custom page_json url
+ax_siteinfo.page_json:
+  path: '/page_json/{key}/{nid}'
+  defaults:
+    _controller: '\Drupal\ax_siteinfo\Controller\PageJsonController::handle'
+  requirements:
+    _permission: 'access content'
