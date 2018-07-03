@@ -1,5 +1,5 @@
 1. All the task has been incorporated
-2. Enable the module and follow the steps for testing as below.
+2. Downlod and Enable the module(ax_siteinfo) and follow the steps for testing as below.
   a. Enable the module
   b. Goto `/admin/config/system/site-information` update site api 
   3. Add new page content
